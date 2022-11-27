@@ -1,0 +1,5 @@
+^dog
+dog$
+gray|grey
+^(https?|ftp|file)://.+$
+for

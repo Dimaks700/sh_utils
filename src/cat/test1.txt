@@ -1,0 +1,14 @@
+http://www.google.com
+cat.c
+dog
+cat123
+cfmh
+www.programiz.com
+ttest1.txt
+textfile.tXt
+grey
+h5
+,
+http://www.google.com
+end
+https://repos.21-school.ru/
